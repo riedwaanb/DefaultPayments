@@ -1,4 +1,4 @@
-# Default Payments Classification Azure ML Example
+# Default Payments Classification - Azure ML Example
 
 This set of notebooks runs through 3 different areas of Azure Machine Learning Python SDK in a easy to understand step by step senario.  Given a labelled dataset (in this case default payment data) we will create an AutoML workspace, automatically build a high quality machine learning model, deploy the model to a azure container instance and then run predictions on a set of data files, outputing the result into a single CSV.
 
